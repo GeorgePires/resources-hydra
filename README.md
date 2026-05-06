@@ -41,6 +41,3 @@ This function creates a pixel-sorted visual effect by:
 - Pixelating the input texture
 - Quantizing luminance into discrete levels
 - Remapping horizontal UV coordinates based on brightness
-
-**Result:**
-A dynamic "slice" or "banding" effect where brighter areas shift differently than darker ones, commonly used in glitch aesthetics and live visuals.
