@@ -4,7 +4,8 @@ a.show()
 a.setBins(4)
 a.setSmooth(0.5)
 
-s1.initImage("https://raw.githubusercontent.com/GeorgePires/resources-hydra/refs/heads/main/pixel-gpires.png")
+// SET IMG: /pixel-code.png OR /pixel-gpires.png
+s1.initImage("https://raw.githubusercontent.com/GeorgePires/resources-hydra/refs/heads/main/pixel-code.png")
 
 setFunction({ 
   name: 'lumaSlice',
