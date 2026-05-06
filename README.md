@@ -1,5 +1,3 @@
-# resources-hydra
-
 ### Luma-based UV Slice (Pixel Sorting Effect)
 
 ```glsl
