@@ -143,10 +143,8 @@ https://github.com/user-attachments/assets/7855c672-c97d-4bb1-8052-3cc2b4390f3d
 
 https://github.com/user-attachments/assets/50c90187-a9c9-4689-8a32-ef1179dd54e7
 
-
-
  |
 
 </div>
 
-> *Visuals gerados em tempo real pelo shader `lumaSlice`, com cores reagindo ao áudio via FFT.*
+
