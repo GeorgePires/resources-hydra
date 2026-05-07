@@ -1,3 +1,7 @@
+
+
+
+
 <div align="center">
 
 # ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ resources-hydra
@@ -138,7 +142,11 @@ Capturas reais do ambiente de live coding, mostrando o Hydra rodando no navegado
 | Paleta Magenta | Paleta Verde |
 |:---:|:---:|
 | ![Live session magenta](assets/session-magenta-1.jpg) | ![Live session green](assets/session-green.jpg) |
-| ![Live session magenta 2](assets/session-magenta-2.jpg) | ![Live session purple](assets/session-purple.jpg) |
+| ![Live session magenta 2](assets/session-magenta-2.jpg) | ![Live session green](assets/session-green.jpg)|
+
+https://github.com/user-attachments/assets/e0bf8030-d82e-495e-8e0c-4fb037b3ccbc
+
+ |
 
 </div>
 
