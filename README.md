@@ -87,6 +87,37 @@ localUV.x += lumaQuant;
 
 return localUV;
 ```
+### ✨ The `lumaBands` Shader (V2)
+
+```js
+setFunction({
+  name: 'lumaBands',
+  type: 'coord',
+  inputs: [
+    { name: 'tex', type: 'sampler2D', default: NaN },
+    { name: 'res', type: 'float', default: '24' },
+    { name: 'bands', type: 'float', default: '6' },
+  ],
+  glsl: `
+    float invBands = 1.0 / bands;
+
+    vec2 grid = floor(_st * res) / res;
+    vec2 centered = (grid + 0.5 / res);
+    vec4 sample = texture2D(tex, centered);
+
+    float luma = _luminance(sample.rgb);
+    float band = floor(luma * bands) * invBands;
+
+    float wave = sin(_st.y * 18.0 + band * 3.1415) * 0.08;
+    vec2 uv = _st;
+
+    uv.x = mod(uv.x + wave + band * 0.25, 1.0);
+    uv.y = fract(_st.y * bands) * invBands + band * invBands;
+
+    return uv;
+  `
+})
+```
 
 ---
 
