@@ -1,10 +1,7 @@
 
-
-
-
 <div align="center">
 
-# ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ resources-hydra
+# ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞
 
 **Live Coding Visual · Pixel Sorting · Audio Reactive · GLSL Custom Shader**
 
@@ -12,12 +9,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![GLSL](https://img.shields.io/badge/GLSL-Shader-00ffaa?style=for-the-badge)](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-
-<br/>
-
-> *A custom Hydra visual experiment combining real-time audio analysis, pixel sorting and luminance-based UV remapping via a hand-written GLSL shader.*
->
-> <br/>
 
 🔴 **[▶ Open live demo in Hydra](https://hydra.ojack.xyz/?code=...)** &nbsp;|&nbsp; 📁 **[Browse source](https://github.com/GeorgePires/resources-hydra)**
 
@@ -133,18 +124,26 @@ render(o2)
 
 ---
 
-## 📸 Live Session — Como é o Ambiente
-
-Capturas reais do ambiente de live coding, mostrando o Hydra rodando no navegador com o shader `lumaSlice` ativo e audio-reativo em tempo real. O setup inclui VS Code com o código aberto ao lado, teclado mecânico retroiluminado e o clássico pato de borracha do debug.
+## 📸 Live Session
 
 <div align="center">
 
-| Paleta Magenta | Paleta Verde |
+|  |  |
 |:---:|:---:|
 | ![Live session magenta](assets/session-magenta-1.jpg) | ![Live session green](assets/session-green.jpg) |
-| ![Live session magenta 2](assets/session-magenta-2.jpg) | ![Live session green](assets/session-green.jpg)|
+| ![Live session magenta 2](assets/session-magenta-2.jpg) | ![Live session green](assets/IMG_3625.jpg)|
 
-https://github.com/user-attachments/assets/e0bf8030-d82e-495e-8e0c-4fb037b3ccbc
+https://github.com/user-attachments/assets/98971bae-1f51-43bf-b76d-5daa49914c30
+
+
+
+https://github.com/user-attachments/assets/7855c672-c97d-4bb1-8052-3cc2b4390f3d
+
+
+
+https://github.com/user-attachments/assets/50c90187-a9c9-4689-8a32-ef1179dd54e7
+
+
 
  |
 
