@@ -125,3 +125,21 @@ render(o2)
 ```
 
 ---
+
+
+---
+
+## 📸 Live Session — Como é o Ambiente
+
+Capturas reais do ambiente de live coding, mostrando o Hydra rodando no navegador com o shader `lumaSlice` ativo e audio-reativo em tempo real. O setup inclui VS Code com o código aberto ao lado, teclado mecânico retroiluminado e o clássico pato de borracha do debug.
+
+<div align="center">
+
+| Paleta Magenta | Paleta Verde |
+|:---:|:---:|
+| ![Live session magenta](assets/session-magenta-1.jpg) | ![Live session green](assets/session-green.jpg) |
+| ![Live session magenta 2](assets/session-magenta-2.jpg) | ![Live session purple](assets/session-purple.jpg) |
+
+</div>
+
+> *Visuals gerados em tempo real pelo shader `lumaSlice`, com cores reagindo ao áudio via FFT.*
